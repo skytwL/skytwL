@@ -8,7 +8,7 @@ im a noob for coding
 bedtwL is sb!
 u have to remeber this!
 
-# About bedtwL:
+# About bedtwL
 
 sha b
 
